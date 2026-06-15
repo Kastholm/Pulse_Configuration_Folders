@@ -1,0 +1,15 @@
+{
+  "name": "Goholbæk.dk",
+  "shortName": "Goholbæk",
+  "domain": "goholbaek.dk",
+  "logo": "/logo.png",
+  "layout": "go",
+  "colors": {
+    "brand": "#1a1a1a",
+    "accent": "#E84040"
+  },
+  "geo": {
+    "lat": 55.7167,
+    "lng": 11.7167
+  }
+}

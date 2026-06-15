@@ -1,0 +1,11 @@
+{
+  "name": "Opdateret.dk",
+  "shortName": "Opdateret",
+  "domain": "opdateret.dk",
+  "logo": "/logo.png",
+  "layout": "default",
+  "colors": {
+    "brand": "#1a1a1a",
+    "accent": "#E84040"
+  }
+}
