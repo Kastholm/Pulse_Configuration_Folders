@@ -6,7 +6,8 @@
   "layout": "go",
   "colors": {
     "brand": "#F19200",
-    "accent": "#E84040"
+    "accent": "#E84040",
+    "secondary": "#1a1a1a"
   },
   "geo": {
     "lat": 55.7167,
