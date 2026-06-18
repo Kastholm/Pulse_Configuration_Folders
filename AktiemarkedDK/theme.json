@@ -1,0 +1,11 @@
+{
+  "name": "Aktiemarked.dk",
+  "shortName": "Aktiemarked",
+  "domain": "aktiemarked.dk",
+  "logo": "/logo.png",
+  "layout": "default",
+  "colors": {
+    "brand": "#1a1a1a",
+    "accent": "#35C652"
+  }
+}
