@@ -1,0 +1,15 @@
+{
+  "name": "Sportland.dk",
+  "shortName": "Sportland",
+  "domain": "sportland.dk",
+  "logo": "/logo.png",
+  "layout": "default",
+  "colors": {
+    "brand": "#1a1a1a",
+    "accent": "#1f7a3d"
+  },
+  "gaId": "G-8Y2J0FJ8Z3",
+  "verification": {
+    "google": "UT2CRYRgNxsWuLAUe5jMYYuwtNiRWxH0qS75U0XoNl8"
+  }
+}

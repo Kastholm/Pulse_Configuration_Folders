@@ -1,0 +1,15 @@
+{
+  "name": "Motiq.dk",
+  "shortName": "Motiq",
+  "domain": "motiq.dk",
+  "logo": "/logo.png",
+  "layout": "default",
+  "colors": {
+    "brand": "#1a1a1a",
+    "accent": "#3b5bdb"
+  },
+  "gaId": "G-RW292NMLTF",
+  "verification": {
+    "google": "w38eHwiz1EUXfljWXTdwvgUnnGSwAXFcdodgG_2yBBY"
+  }
+}
